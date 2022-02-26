@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraignment and acquittal of Sr. Edward Mosely Baronet, indited at the Kings bench bar for a rape, upon the body of Mistris Anne Swinnerton. Ianuary 28, 1647. / Taken by a reporter there present, who heard all the circumstances thereof, whereof this is a true copy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75603</idno>
+            <idno type="STC">Wing A3740</idno>
+            <idno type="STC">Thomason E426_23</idno>
+            <idno type="STC">ESTC R204582</idno>
+            <idno type="EEBO-CITATION">99864055</idno>
+            <idno type="PROQUEST">99864055</idno>
+            <idno type="VID">116274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116274)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E426[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraignment and acquittal of Sr. Edward Mosely Baronet, indited at the Kings bench bar for a rape, upon the body of Mistris Anne Swinnerton. Ianuary 28, 1647. / Taken by a reporter there present, who heard all the circumstances thereof, whereof this is a true copy.</title>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. for W.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Feb: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moseley, Edward, --  Sir, 1616-1657 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Trials (Rape) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116274:1"/>
+            <pb facs="tcp:116274:1" rendition="simple:additions"/>
+            <p>THE ARRAIGNMENT AND ACQUITTALL OF S<hi rend="sup">r</hi>. Edward Moſely BARONET, Indited at the Kings Bench Bar for a Rape, upon the Body of Miſtris <hi>Anne Swinnerton.</hi>
+            </p>
+            <p>
+               <hi>Ianuary</hi> 28, 1647.</p>
+            <p>Taken by a Reporter there preſent, who heard all the Circumſtances there<g ref="char:EOLhyphen"/>of, whereof this is a true Copy.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E.G.</hi> for <hi>W.L.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116274:2"/>
+            <pb n="1" facs="tcp:116274:2"/>
+            <head>This triall was taken the 28 day of <hi>January,</hi> in the 23 Yeer of King <hi>CHARLES,</hi> An. Dom. 1647.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR <hi>Edward Moſely</hi> Barronet en<g ref="char:EOLhyphen"/>dited for Felony and Rape, upon the Body of one <hi>Anne Swinnerton,</hi> (Wife to one Mr. <hi>Swinnerton,</hi> a Gentleman of <hi>Grays</hi> Inne) This triall was taken the 28th day of <hi>January,</hi> in the 23 yeare of King <hi>Charles. An. Dom.</hi> 1647. Before Mr. Juſtice <hi>Bacon</hi> and Maſter Juſtice <hi>Rolls</hi> in <hi>Hillary</hi> Terme in, <hi>Baneo Regis.</hi>
+            </p>
+            <p>Firſt<g ref="char:punc">▪</g> Sir <hi>Edward Moſely,</hi> appear'd at the Bar and pleaded not guilty; Then Maſter <hi>Swin<g ref="char:EOLhyphen"/>nerton</hi> and his Wife appeard to give evi<g ref="char:EOLhyphen"/>dence, Then the Court demanded of Maſter
+<pb n="2" facs="tcp:116274:3" rendition="simple:additions"/>
+               <hi>Swinnerton</hi> what councell hee had ready to open the Inditement, Maſter <hi>Swinnerton</hi> anſwered, that there had been ſuch tampering with him and his witneſſes to ſtop the proſecution, That he could get no Lawyers to open his Wifes caſe. The Court asked him whether he had ſpoken with any Lawyers to be of his councell, Hee ſaid hee had, but none would undertake it, onely Maſter <hi>Cooke</hi> had promiſed him that he would open the Inditement for him, but hee appeares not, So that by the tampering of Sir <hi>Edward Moſely,</hi> Maſter <hi>Lowder,</hi> Maſter <hi>Ia. Win-Stanly,</hi> Maſter <hi>Blore,</hi> and Maſter <hi>Brown<g ref="char:EOLhyphen"/>nell</hi> and twenty more, none would aſſiſt him in the maintaining of the Inditement. Theſe Gentlemen before named appeared in Court, and did not deny, but that they did uſe what meanes they could (in a faire way) to put up the buſineſſe, betwixt Sir <hi>Edward Moſely</hi> and Miſtris <hi>Swinnerton,</hi> which they conceived they might lawfully doe, believing it could not poſſibly be a Rape, having had intelli<g ref="char:EOLhyphen"/>gence of ſome former paſſages in it; Then the Court ſaid, Maſter <hi>Swinnerton</hi> if you had de<g ref="char:EOLhyphen"/>ſired councell, the Court would have aſſigned you councell. Then Maſter <hi>Swinnerton</hi> pro<g ref="char:EOLhyphen"/>ceeded with his evidence (ſaying) comming home to my Chamber, about ſix of the clock in <hi>April</hi> 1647. I found Sir <hi>Edward Moſe<g ref="char:EOLhyphen"/>ly</hi> came ruſhing out of my Chamber, and I
+<pb n="3" facs="tcp:116274:3"/>entring ſaw my Wife throwne upon the ground, with all her cloathes torne, the Bed-cloathes torne and hanging halfe way upon the ground, my Wife crying and wringing her hands, with her clothes all torne off her head, her wriſt ſprained, Sir <hi>Edward Moſely</hi> having throwne her violently upon the ground, where<g ref="char:EOLhyphen"/>upon (ſeeing her in this condition) I asked her what was the matter, ſhee ſaid Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Moſely</hi> had Raviſht her, Maſter <hi>Swin<g ref="char:EOLhyphen"/>nerton</hi> further enformed the Court, That Sir <hi>Edward Moſely</hi> two or three dayes before he did the Rape, ſayd that he would raviſh my Wife though hee were ſure to be hang'd for it, Then Miſtris <hi>Swinnerton</hi> began her evi<g ref="char:EOLhyphen"/>dence, ſaying, upon my Oath here I ſweare, That hee ſayd hee would force mee to my Bed, and then hee ſwore God damme him; Hee would lie with mee though hee were ſure to die for it, Then hee takes mee and carries mee to a narrow place, betwixt the wall of the Bed, and with his hands forſt my hands behinde mee, and lay with mee whether I would or no, Then Sir <hi>Edward Moſely</hi> interrupted her, ſaying, did not your Husband come to the Chamber doore at that time you pretended you were Raviſht, and knockt at the Doore, and I would have o<g ref="char:EOLhyphen"/>pened the Doore for him, whereupon you ſayd it is my Husband; Let the drunken ſot
+<pb n="4" facs="tcp:116274:4"/>ſtay without, and would not ſuffer mee to open the Doore, and asked her whether ſhee did not ſay ſo, ſhee ſayd it was falſe, Then the Court demanded of Maſter <hi>Swinnerton</hi> what hee ſaid to his Wife when hee found her in this manner, Maſter <hi>Swinnerton</hi> an<g ref="char:EOLhyphen"/>ſwered, I ſayd that if ſhee were raviſht as ſhee ſayd ſhee was, ſhee muſt take her Oath of it, and indite him for it, and if ſhee did not hee would believe, that ſhee had playd the Whore with him, and hee would turne her off, and live no more with her, and ſhee ſhould be Sir <hi>Edward Moſelies</hi> Whore al<g ref="char:EOLhyphen"/>together, but (ſayd hee) being deſirous to be further ſatisfyed in the buſineſſe I of<g ref="char:EOLhyphen"/>ten ſought for Sir <hi>Edward Moſely,</hi> but could not finde him, for he had fled away from his Chamber.</p>
+            <p>One day I met him accidentally in Holborne, and deſired to ſpeake a word with him, he ſaid he knew my buſineſſe, but he was in haſt and could not ſtay; Then I told him I had earneſt buſineſſe with him, and I muſt ſpeake with him, he told me he ſuſpected I had ſome deſigne to arreſt him, and would not be perſwaded to ſtay, then I preſt him that if he would goe and drink a cup of Ale with me, he ſhould come in no danger concerning any arreſt at all; and if he then would give me ſatisfaction, I would not proſecute the Law againſt him: The Court de<g ref="char:EOLhyphen"/>manded
+<pb n="5" facs="tcp:116274:4"/>of him what he meant by ſatisfaction, Maſter <hi>Swinnerton</hi> anſwered, onely to know what he could ſay to excuſe himſelfe, the Court ſaid, why, would you believe him before your Wife? Maſter <hi>Swinnerton</hi> anſwered, my mea<g ref="char:EOLhyphen"/>ning was; if he could ſatisfie me that my Wife was conſenting to it, I had rather wave the pro<g ref="char:EOLhyphen"/>ſecution, then bring my Wife and my ſelfe up<g ref="char:EOLhyphen"/>on the Stage, and this was my intent and no o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Then the Court asked Sir <hi>Edward Moſeley</hi> how Maſter <hi>Swinnertons</hi> Wife came to be ſo with her cloathes torne and ruffed in this manner (none but hee and ſhe being in the Roome) Sir <hi>Edward Moſeley</hi> anſwered, ſhe alwayes went ve<g ref="char:EOLhyphen"/>ry ill favourdly in her apparrell: Then the Court asked Miſtris <hi>Swinnerton</hi> whether there were any in the roome but Sir <hi>Edward</hi> and her ſelfe, She anſwered, a little before there was my Maide, but I had ſent her to the Bakers houſe for bread for my Children, and in the meane while he lay with me againſt my will.</p>
+            <p>Then the Court asked the Maide what ſhee could ſay, ſhe ſaid, when I came from the Ba<g ref="char:EOLhyphen"/>kers, and entring into the chamber, I found my Miſtris crying, and wringing her hands, ſaying ſhe was undone; Alſo I heard Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Moſeley</hi> ſay, before I went to the Bakers, that he would lie with my Miſtris though he were ſure to be hang'd for it, and at all times
+<pb n="6" facs="tcp:116274:5"/>hee was wont to bee very uncivill and rude when hee came into the Chamber, once hee came into the Chamber when I was there alone, truly I durſt not ſtay in the Cham<g ref="char:EOLhyphen"/>ber, for I alwayes obſerved, Hee was ſo lecherouſly given that any Woman were ſhee never ſo meane would ſerve his turne; At this time hee came into the Chamber a little before I went to the Bakers, I obſerved hee would faine have throwne my Miſtris upon the Bed when I was there, but my Miſtris would not yeeld to it, but grew very angry with him, and ſaid hee was a rogue, and ſpit in his face, yet hee would not let her alone, whereupon I told him, if hee would not be more civill, I would call my Maſter, and if hee came hee would crack his crowne for uſing my Miſtris ſo uncivilly, Sir <hi>Edward Moſely</hi> anſwered hee cared not a fart for my Maſter, and that for mee I was a baſe Jade, and hee would make mee kiſſe his, &amp;c. what ſaid the Court, but the Maid having ſome modeſty could not bring it out, then ſaid her Miſtris, he ſaid ſhe ſhould kiſſe ſomething that was about him, what was that ſaid the Court againe, Maſter <hi>Swinnerton</hi> an<g ref="char:EOLhyphen"/>ſwered, he ſaid he would make her kiſſe his Arſe, then the Court ſaid to the Maide, you muſt not be ſo nice in ſpeaking of the truth, be<g ref="char:EOLhyphen"/>ing upon your Oath, Miſtris <hi>Swinnerton</hi> ſaid
+<pb n="7" facs="tcp:116274:5"/>then came Maſter <hi>Ja. Winſtanley</hi> to tamper with me from Sir <hi>Edward Moſeley,</hi> and told me if I pleas'd to accept a hundred pounds, I ſhould have it, if I would be reconciled to Sir <hi>Edward Moſeley;</hi> Then the Maide ſaid, my Miſtris made this anſwer, ſhee cared not for Money: Miſtris <hi>Swinnerton</hi> ſaid, it is true I ſaid ſo; and this I ſaid, If Sir <hi>Edward Moſeley</hi> would downe upon his knees and con<g ref="char:EOLhyphen"/>feſſe that he had wronged me, I would not pro<g ref="char:EOLhyphen"/>ſecute him; But alſo I reſolved that he ſhould weare a Paper upon his Breaſt, or upon his Hatt, acknowledging the injury hee had done unto mee: if hee would doe ſo I would for<g ref="char:EOLhyphen"/>give him. Then ſaid ſhee, Maſter <hi>Ia. Win<g ref="char:EOLhyphen"/>ſtanley</hi> deſired to know where the place was in the roome where I was raviſht; where-upon I ſhewed him. Maſter <hi>Ia. Winſtanley</hi> anſwered, this was ſuch a place for ſuch a buſineſſe, that if I had the ſtrongeſt woman in England, I could raviſh her here whether ſhe would or no.</p>
+            <p>Then the Proſecutors for the King having ended their evidence: The Court asked Sir <hi>Edward Moſeley</hi> what hee could ſay for him<g ref="char:EOLhyphen"/>ſelfe; He ſaid, hee had many witneſſes, and deſired that they might bee examined what they could ſay in his behalfe.</p>
+            <p>Then Maſter <hi>Kilvert</hi> was called in, who ap<g ref="char:EOLhyphen"/>peared; The Court ſaid, Maſter <hi>Kilvert</hi>
+               <pb n="8" facs="tcp:116274:6"/>though you bee not upon your Oath, you muſt ſpeake the truth in the feare of God, Maſter <hi>Kilvert</hi> anſwered, I know it my Lord; what I ſhall ſay here, I ſpeake it in the pre<g ref="char:EOLhyphen"/>ſence of God, and I ſhall ſpeake no more then what is truth: Miſtris <hi>Swinnerton</hi> ſee<g ref="char:EOLhyphen"/>ing of him, ſaid I hope no body will believe what this Knave <hi>Kilvert</hi> will ſay, for he is a Knave knowne to all the Court, and all that heare him. Then Maſter <hi>Kilvert</hi> went on with his evidence, ſaying, I thanke God this is the ſecond time I ever came in this womans company; the firſt time was at the Fleece Taverne in Covent-Garden, where ſhee came to a Dinner to meete with Sir <hi>Edward Moſeley:</hi> As ſoone as ſhee had ſet downe at the Table, ſhee ſaid, that this Roome had bin a very lucky Roome to her, for once before in this Roome, ſhee had received three hundred pounds for the compoſition of a Rape, which ſhee charged a Reverend Divine withall, I ſhall not ſtick to name the man, ſhee ſaid it was Doctor <hi>Belcanquell;</hi> this Doctor I knew him to be a reverend man, and to my knowledge is long ſince dead, and in Heaven; and for this Rape, ſhee ſaid then, ſhee would not take under two thouſand pounds for a compoſition of Sir <hi>Edward Moſeley,</hi> which ſhee ſaid was lit<g ref="char:EOLhyphen"/>tle enough, hee having three thouſand pounds
+<pb n="9" facs="tcp:116274:6"/>a yeere. Miſtris <hi>Swinnerton</hi> hearing of this clapt her hands at him, and ſaid, he was a Knave, and a Raſcall, and all was falſe which he ſaid.</p>
+            <p>Then the Court ſaid to her, Miſtris <hi>Swin<g ref="char:EOLhyphen"/>nerton</hi> you ſhould carry your ſelfe ſoberly and moderately, otherwiſe you will diſpa<g ref="char:EOLhyphen"/>rage all your witneſſes. Then the Court aſ<g ref="char:EOLhyphen"/>ked her whether ſhee did meete at this Ta<g ref="char:EOLhyphen"/>verne (having affirmed before that ſhee ne<g ref="char:EOLhyphen"/>ver was in Sir <hi>Edward Moſelys</hi> company but in her owne chamber) whereupon ſhee ſtag<g ref="char:EOLhyphen"/>gered at it a little and loath to confeſſe it, at laſt ſhee anſwered, True, ſhee was there, but this Raſcall <hi>Kilvert</hi> had bewitcht her to come thither. Maſter <hi>Kilvert</hi> ſaid further, after ſhee had ſate a while at the Table, ſhe takes her ſtoole and removes it to ſit next to Sir <hi>Edward Moſeley,</hi> and there falls hugging and imbracing him; whereupon ſaid hee, ſure<g ref="char:EOLhyphen"/>ly Lady whereas you ſay Sir <hi>Edward</hi> hath raviſht you, I doe beleive rather you have raviſht him, otherwiſe you would not make ſo much of him, ſo Maſter <hi>Kilvert</hi> made an end of his evidence.</p>
+            <p>Then Maſter <hi>Wood</hi> another witneſſe, ſaid he met her at Iſlington in Sir <hi>Edward Moſeleys</hi> company, and there ſhee confeſt to him that Sir <hi>Edward Moſeley</hi> had many times left the Key of his Chamber with her, to goe to
+<pb n="10" facs="tcp:116274:7"/>him when ſhee pleaſed; and ſhee ſaid, ſhee had often made uſe of it. Then ſaid this witneſſe, after I had ſeriouſly look't upon her, and ſeeing of her a woman of that ſtrength and body, I ſaid, I wondred Sir <hi>Edward Moſeley</hi> ſhould raviſh her: She ſaid, do you won<g ref="char:EOLhyphen"/>der at that, why? doe you take me behinde the Bed there<g ref="char:punc">▪</g> (there being a Bed in the Roome) and ſee whether you may not doe it.</p>
+            <p>Another witneſſe ſaid that ſhee had con<g ref="char:EOLhyphen"/>feſt to him that Sir <hi>Edward Moſeley</hi> once lay with her, with her conſent; afterwards ſhee asked him, now what will you give my Maide you muſt give her ſomething? he anſwered, Ile give her fourty ſhillings, whereupon ſhee ſaid, fourty ſhillings, that's baſe, you cannot give her leſſe then ten pound and a Silke Petticoate; But ſaith ſhee, when he went forth of Doores, ſhee ſaid he gave her nothing but a Groat, and ſo baſely went his way.</p>
+            <p>Another Witneſſe ſayd hee heard her ſay, (that it being generally knowne that Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Moſeley</hi> had raviſht her) ſhee was like to looſe many of her beſt cuſtomers in Town.</p>
+            <p>Another Witneſſe ſayd he heard <hi>Swinnerton</hi> ſay, that if ſhe would not take her Oath that ſhe was raviſht by him ſhe ſhould never be no Wife of his: Afterwards Mr. <hi>Ia Winſtanly</hi> was called
+<pb n="11" facs="tcp:116274:7"/>into the Court, Hee ſaid, tis true ſhee tooke mee, and ſhewed mee the place where ſhee was raviſht. Hee woundring how Sir <hi>Edward</hi> being but a little Man and ſhee ſuch a luſty Woman ſhould bee raviſht by him! Why ſayd ſhee ſhould you wonder at that? Then ſhee put her Leg betweene my Legges, and put her other Legge ſetting her Foote againſt the Wall, ſaying now in this poſture as you ſee mee here, I my ſelfe could raviſh any Woman whatſoever.</p>
+            <p>Another Witneſſe ſayd, the night before ſhee went to preferre the Bill of Inditement againſt Sir <hi>Edward Moſeley,</hi> ſhee confeſt ſhee had like to have beene diſtracted and runne mad, for feare the Grand Jury ſhould finde the Bill.</p>
+            <p>Two other Witneſſes affirmed upon their credit, whereas it was ſayd by Maſter <hi>Swin<g ref="char:EOLhyphen"/>nerton</hi> and his Wife, That Sir <hi>Edward Moſeley</hi> fled from his Chamber immediately af<g ref="char:EOLhyphen"/>ter the act was done, They ſaid they had daily recourſe to his Chamber, and walkt to and fro with him, ſometimes in <hi>Grayes.</hi> Inne<g ref="char:EOLhyphen"/>walkes, ſometimes to Weſtminſter, and to other places in the Towne for ſix Weekes together, after this pretended Rape, and many times they ſaw Miſtris <hi>Swinnerton</hi> ſtand at her owne doore looking upon him, as hee paſt by (which was but ſix ſteps from Sir <hi>Edwards</hi>
+               <pb n="12" facs="tcp:116274:8"/>Chamber doore) and never queſtioned a<g ref="char:EOLhyphen"/>bout it, but oftentimes (they ſaid) ſeeing her ſtand watching there, they feared ſhee would go up to him, and tempt him to wicked<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Then evidence being given on both ſides, the Jury went from the Barre and returned, and gave their Verdict, That Sir <hi>Edward Moſeley</hi> was not guilty, Then the Court ſayd Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Moſeley,</hi> take heede what company you keepe hereafter, Let this be a warning to you, you ſee in what danger you bring your ſelfe to in keeping ill Company.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Jmprimatur</hi> Gilbert Mabbot.</p>
+            <p>
+               <hi>February</hi> 8.1647.</p>
+            <pb facs="tcp:116274:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
